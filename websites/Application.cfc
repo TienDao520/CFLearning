@@ -1,0 +1,4 @@
+component
+{
+    THIS.name = "lawyers"
+}
